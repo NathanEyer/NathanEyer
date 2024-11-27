@@ -1,7 +1,7 @@
 ### Salut, je suis Nathan ! 👋
 
 - 🎓 Étudiant en **BUT Informatique** à l'IUT Charlemagne de Nancy.
-- 💻 Passionné par le **développement web** et l'**innovation technologique**.
+- 💻 Passionné par le **développement** et l'**innovation technologique**.
 - 🌱 Actuellement en recherche d’un **stage de 8 à 10 semaines** (février-avril 2024) pour mettre en pratique mes compétences en **programmation** et **gestion de projet**.
 - 🔧 Compétences principales : **JavaScript**, **PHP**, **SQL**, **HTML/CSS**, **Java**.
 - 🎶 Musicien dans mon temps libre : **piano**, **percussions**, **marimba**.
@@ -10,4 +10,4 @@
 📫 **Contact** :  
 [LinkedIn](https://www.linkedin.com/in/NathanEyer) | [GitHub](https://github.com/NathanEyer)  
 
-N'hésitez pas à me contacter pour toute collaboration, projet open-source ou même juste pour discuter de tech !  
+N'hésitez pas à me contacter pour toute question ! 
