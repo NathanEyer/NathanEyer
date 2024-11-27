@@ -1,16 +1,13 @@
-## Hi there 👋
+### Salut, je suis Nathan ! 👋
 
-<!--
-**NathanEyer/NathanEyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Étudiant en **BUT Informatique** à l'IUT Charlemagne de Nancy.
+- 💻 Passionné par le **développement web** et l'**innovation technologique**.
+- 🌱 Actuellement en recherche d’un **stage de 8 à 10 semaines** (février-avril 2024) pour mettre en pratique mes compétences en **programmation** et **gestion de projet**.
+- 🔧 Compétences principales : **JavaScript**, **PHP**, **SQL**, **HTML/CSS**, **Java**.
+- 🎶 Musicien dans mon temps libre : **piano**, **percussions**, **marimba**.
+- 🚀 Ouvert à de nouveaux défis et toujours en quête d'opportunités pour apprendre et évoluer !
 
-Here are some ideas to get you started:
+📫 **Contact** :  
+[LinkedIn](https://www.linkedin.com/in/NathanEyer) | [GitHub](https://github.com/NathanEyer)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+N'hésitez pas à me contacter pour toute collaboration, projet open-source ou même juste pour discuter de tech !  
