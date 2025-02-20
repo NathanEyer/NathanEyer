@@ -1,4 +1,4 @@
-### Salut, je suis Nathan ! 👋
+### Salut, je m'appelle Nathan:
 
 - 🎓 Étudiant de 2ème année en **BUT Informatique** à l'IUT Charlemagne de Nancy.
 - 💻 Passionné par le **développement logiciel** et les **systèmes et réseaux**.
